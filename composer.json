@@ -1,0 +1,34 @@
+{
+    "name": "avi-fatal/laravel-admin-modal",
+    "description": "",
+    "keywords": [],
+    "homepage": "",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "avi-fatal",
+            "email": ""
+        },
+        {
+            "name": "shaymaa-saied",
+            "email": "shaymaa2hussein@gmail.com"
+        },
+        {
+            "name": "hatem ismail",
+            "email": "hatem.ismail.dv@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.5"
+    },
+    "autoload": {
+       "psr-4": {
+         "Evi\\Popup\\": "src/"
+        }
+    },
+    "license": "MIT"
+    
+}
